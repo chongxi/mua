@@ -1,0 +1,1190 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mat",
+				"matplotlib	module"
+			],
+			[
+				"arg",
+				"argmax	function"
+			],
+			[
+				"byte",
+				"bytes2write"
+			],
+			[
+				"write",
+				"write_conn"
+			],
+			[
+				"read",
+				"read_conn"
+			],
+			[
+				"get",
+				"get_lock"
+			],
+			[
+				"to",
+				"to_fixed_point"
+			],
+			[
+				"gap",
+				"gap_mat"
+			],
+			[
+				"vis_",
+				"vis_plot"
+			],
+			[
+				"vis",
+				"vis_data"
+			],
+			[
+				"set",
+				"set_data"
+			],
+			[
+				"scal",
+				"scale_x"
+			],
+			[
+				"l",
+				"load"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"test",
+				"testcase"
+			],
+			[
+				"ini",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"multimethod",
+				"multimethod"
+			],
+			[
+				"work",
+				"work_3"
+			],
+			[
+				"_",
+				"_nCh"
+			],
+			[
+				"int",
+				"int16"
+			],
+			[
+				"pro",
+				"process1"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"bytes",
+				"bytes_to_write"
+			],
+			[
+				"buf",
+				"buf_length"
+			],
+			[
+				"byt",
+				"bytes_to_write"
+			],
+			[
+				"stream",
+				"stream_buf"
+			],
+			[
+				"xil",
+				"xillybus_write_32"
+			],
+			[
+				"chNo",
+				"chNo_out"
+			],
+			[
+				"shared",
+				"shared_arr"
+			],
+			[
+				"as",
+				"astype"
+			],
+			[
+				"_timer",
+				"_timer_read"
+			],
+			[
+				"_tim",
+				"_timer_read"
+			],
+			[
+				"al",
+				"alwaysc	always *"
+			],
+			[
+				"fir",
+				"fir_out"
+			],
+			[
+				"fifo1",
+				"fifo1_din"
+			],
+			[
+				"ST",
+				"STD_LOGIC_VECTOR"
+			],
+			[
+				"el",
+				"elsif	elsif"
+			],
+			[
+				"in_",
+				"in_1"
+			],
+			[
+				"out",
+				"out_1"
+			],
+			[
+				"and",
+				"and2_gate"
+			],
+			[
+				"cl",
+				"clk_1MHz"
+			],
+			[
+				"clk",
+				"clk_20MHz"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "base/Vis.py",
+			"settings":
+			{
+				"buffer_size": 2751,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "base/test.py",
+			"settings":
+			{
+				"buffer_size": 1458,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "qt_example.py",
+			"settings":
+			{
+				"buffer_size": 3926,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "base/MUA.py",
+			"settings":
+			{
+				"buffer_size": 3774,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/MagicPython/settings/sublime/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/MagicPython/settings/sublime/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/MagicPython/settings/sublime/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/MagicPython/settings/sublime/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/AutoHotkey/AutoHotkey.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Markdown Preview/Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 562.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cy",
+				"Set Syntax: Cython"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pip",
+				"Package Control: Install Package"
+			],
+			[
+				"cython",
+				"Set Syntax: Cython"
+			],
+			[
+				"pip ",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: MagicPython"
+			],
+			[
+				"binary",
+				"Set Syntax: Binary"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"hex",
+				"Set Syntax: Hex"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"pdf",
+				"Set Syntax: PDF"
+			],
+			[
+				"plan",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"prv ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"biuld ",
+				"Build: Cancel"
+			],
+			[
+				"markdownpre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"filediff",
+				"FileDiffs: Menu"
+			],
+			[
+				"project manager ",
+				"Project Manager: Add Project"
+			],
+			[
+				"project:close",
+				"Project: Close"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdownp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"markdownediting:",
+				"MarkdownEditing: New Inline Link"
+			],
+			[
+				"markdownediting",
+				"MarkdownEditing: New Image"
+			],
+			[
+				"markdo",
+				"Snippet: Markdown_header_(mdh3)"
+			],
+			[
+				"mar",
+				"Snippet: Markdown_header_(mdh1)"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"auto",
+				"AutoHotkey - Run"
+			],
+			[
+				"can",
+				"Build: Cancel"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"anaconda: se",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"",
+				"Build: Cancel"
+			],
+			[
+				"bc",
+				"Build: Cancel"
+			],
+			[
+				"cancel",
+				"Build: Cancel"
+			],
+			[
+				"m",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"matlab",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"verilog",
+				"Set Syntax: Verilog"
+			],
+			[
+				"VHDL",
+				"Set Syntax: VHDL"
+			],
+			[
+				"syntax ",
+				"Set Syntax: ucfconstraints"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 578.0
+	},
+	"console":
+	{
+		"height": 518.0,
+		"history":
+		[
+			"Running python -u \"F:\\PCIE\\Bandwidth_Accuracy_Test\\test_analysis.py\"",
+			"sublime.cache_path()",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/mua",
+		"/F/mua/base"
+	],
+	"file_history":
+	[
+		"/C/Users/labadmin/.babun/cygwin/home/labadmin/.jupyter/custom/costom.js",
+		"/F/mua/__init__.py",
+		"/F/mua/test.py",
+		"/F/mua/base/__init__.py",
+		"/F/clustering/hdbscan/hdbscan/hdbscan_.py",
+		"/F/mua/base/MUA.py",
+		"/F/phy/phy/gui/gui.py",
+		"/F/phy/phy/plot/visuals.py",
+		"/F/phy/phy/plot/interact.py",
+		"/F/phy/phy/__init__.py",
+		"/F/clustering/hdbscan/hdbscan/plots.py",
+		"/F/clustering/hdbscan/hdbscan/_hdbscan_tree.pyx",
+		"/F/PyViewer/vispy-master/vispy/visuals/xyz_axis.py",
+		"/F/PyViewer/vispy-master/vispy/scene/visuals.py",
+		"/F/phy/phy/plot/plot.py",
+		"/F/clustering/hdbscan/hdbscan/_hdbscan_tree.pyd",
+		"/F/phy/phy/traces/tests/test_filter.py",
+		"/F/phy/phy/plot/tests/test_visuals.py",
+		"/C/Users/labadmin/Downloads/vispy-master/build/lib/vispy/visuals/axis.py",
+		"/C/Users/labadmin/Downloads/vispy-master/build/lib/vispy/scene/widgets/axis.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/demo/gloo/primitive_mesh_viewer_qt.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/demo/scene/picking.py",
+		"/C/Users/labadmin/Downloads/vispy-master/build/lib/vispy/scene/cameras/panzoom.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/basics/scene/isocurve_for_trisurface_qt.py",
+		"/C/Users/labadmin/Downloads/vispy-master/build/lib/vispy/visuals/line/line.py",
+		"/C/Users/labadmin/Downloads/vispy-master/build/lib/vispy/visuals/polygon.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/basics/visuals/transparent_blend.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/basics/visuals/polygon_visual.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/demo/gloo/atom.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/demo/gloo/ndscatter.py",
+		"/F/phy/example/test_GUI.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/basics/scene/sphere.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/basics/scene/isocurve.py",
+		"/F/PyViewer/PyViewer.py",
+		"/C/Users/labadmin/Downloads/vispy-master/build/lib/vispy/visuals/rectangle.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/basics/visuals/dynamic_polygon.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/basics/gloo/display_points.py",
+		"/F/phy/phy/plot/base.py",
+		"/F/phy/phy/plot/__init__.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/demo/gloo/cloud.py",
+		"/F/Viz/phygui/tests/test_gui.py",
+		"/F/Viz/phygui/__init__.py",
+		"/F/phy/phy/gui/__init__.py",
+		"/F/phy/setup.py",
+		"/F/PyViewer/vis_plot_wav.py",
+		"/C/Users/labadmin/Downloads/vispy-master/build/lib/vispy/scene/visuals.py",
+		"/C/Users/labadmin/Downloads/vispy-master/build/lib/vispy/gloo/gl/tests/test_basics.py",
+		"/C/Users/labadmin/Downloads/vispy-master/vispy/visuals/line_plot.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/basics/visuals/line_prototype.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/basics/visuals/line_transform.py",
+		"/C/Users/labadmin/Downloads/vispy-master/build/lib/vispy/visuals/ellipse.py",
+		"/C/Users/labadmin/Downloads/vispy-master/build/lib/vispy/visuals/regular_polygon.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/demo/gloo/unstructured_2d.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/demo/gloo/game_of_life.py",
+		"/C/Users/labadmin/Downloads/vispy-master/vispy/plot/plotwidget.py",
+		"/C/Users/labadmin/Downloads/vispy-master/examples/tutorial/visuals/T02_measurements.py",
+		"/C/Users/labadmin/Downloads/vispy-master/vispy/scene/widgets/grid.py",
+		"/C/Users/labadmin/Downloads/vispy-master/vispy/plot/fig.py",
+		"/C/Users/labadmin/Downloads/vispy-master/build/lib/vispy/app/timer.py",
+		"/C/Users/labadmin/Downloads/vispy-master/vispy/scene/canvas.py",
+		"/C/Users/labadmin/Downloads/vispy-master/vispy/scene/widgets/widget.py",
+		"/F/PCIE/Test_Case_V2/FIR_16chs/readme.md",
+		"/F/PCIE/Test_Case_V2/FIR_16chs/test_analysis.py",
+		"/F/PCIE/Test_Case_V2/FIR_16chs/vis_plot.py",
+		"/F/PCIE/Test_Case_V2/FIR_16chs/test_read.py",
+		"/F/PCIE/Test_Case_V2/FIR_16chs/test_threshold.py",
+		"/F/PCIE/Test_Case_V2/FIR_16chs/write_mem_32.py",
+		"/F/PCIE/Test_Case_V2/FIR_16chs/test_write.py",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/User/Binary.sublime-syntax",
+		"/C/Users/labadmin/Desktop/icon_binary.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_grunt.tmPreferences",
+		"/C/Users/labadmin/AppData/Local/Temp/7zE89817FB0/icon_binary.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_pdf.tmPreferences",
+		"/F/PCIE/Test_Case_V2/FIR_16chs/coef.bin",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/F/PCIE/Test_Case_V2/FIR_16chs/test.txt",
+		"/F/PCIE/Test_Case_V2/FIR_16chs/quantization_err_biggest.pdf",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/User/Pdf.sublime-syntax",
+		"/F/PCIE/Test_Case_V2/FIR_16chs/vis_plot_wav.py",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/User/Textile.sublime-settings",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/Matlab/Matlab.sublime-syntax",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/User/Pdf.sublime-settings",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/User/pdf.yaml",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/User/pdf.sublime-syntax",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/User/AutoHotkey.sublime-settings",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/User/pdf.sublime-settings",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/Seti_UI/icons/Prefs/icon_matlab.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_c++.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_coffee.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_css.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_font.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_go.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_gulp.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_html.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_jade.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_java.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_js.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_json.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_less.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_LICENSE.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_md.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_mustache.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_php.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_Procfile.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_python.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_rails.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_ruby.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_sass.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_verilog.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_bower.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_c#.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_c.tmPreferences",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/Verilog/Verilog.tmLanguage",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/Matlab/Symbols.tmPreferences",
+		"/C/Users/labadmin/Desktop/icon_stylus.tmPreferences",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/MagicPython/grammars/MagicPython.tmLanguage",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/Seti_UI/custom icon/icon_pdf.tmPreferences",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/Text/Plain text.tmLanguage",
+		"/C/Users/labadmin/AppData/Local/Temp/7zE8E55526C/icon_stylus.tmPreferences",
+		"/F/PCIE/Test_Case_V2/FIR_16chs/pics/quantization_err_biggest.pdf",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/labadmin/Desktop/icon_img.tmPreferences",
+		"/F/PCIE/Test_Case_V2/FIR_16chs/FIR_16chs.sublime-project",
+		"/C/Users/labadmin/AppData/Roaming/Sublime Text 3/Packages/Seti_UI/verilog icon/icon_verilog.tmPreferences",
+		"/C/Users/labadmin/AppData/Local/Temp/7zE8E571BB0/icon_verilog.tmPreferences",
+		"/C/Users/labadmin/AppData/Local/Temp/7zOC59FFB27/Genesys2_H.xdc"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"MUA",
+			"mua",
+			"visuals",
+			"hdbscan",
+			"mua",
+			"chosen_clusters",
+			"_select_clusters",
+			"select_clusters",
+			"is_cluster",
+			"cluster",
+			"_condensed_tree",
+			"CondensedTree",
+			"do_labelling",
+			"get_label",
+			"labels",
+			"get_close",
+			"get_closest",
+			"box_bounds",
+			"bound\nbox_bounds",
+			"closable",
+			"removeDock",
+			"removeDockWidget",
+			"remove",
+			"removeD",
+			"snipp",
+			"snippte",
+			"close",
+			"widget close",
+			"widget",
+			"close a wid",
+			"add_view",
+			"closed",
+			"close_view",
+			"close",
+			"close_view",
+			"GUI",
+			"highlight",
+			"View",
+			"Whitening",
+			"box",
+			"connect",
+			"get_pos_from_mouse",
+			"Canvas",
+			"BaseCanvas",
+			"View",
+			"view",
+			"start",
+			"bias1",
+			"center",
+			"margin",
+			"RectangleVisual",
+			"glBlendFunc",
+			"glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA)",
+			"glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA) ",
+			"gl",
+			"LineVisual",
+			"border_pos",
+			"pos",
+			"_pos",
+			"border_pos",
+			"_pos",
+			"border_pos",
+			"_border",
+			"LineVisual",
+			"Canvas",
+			"wheel",
+			"zoom",
+			"interactive",
+			"zoom",
+			"domain",
+			"label",
+			"labels",
+			"_text",
+			"text",
+			"AxisWidget",
+			"axis_widget",
+			"cursor_text",
+			"_scene_transform",
+			"map",
+			"STTransform",
+			"AxisWidget",
+			"axiswidget",
+			"scene",
+			"tr.map",
+			"map",
+			"app.Timer",
+			"draw_mode",
+			"line",
+			"strip_line",
+			"gl_PointSize",
+			"__getitem__",
+			"_widgets",
+			"_update_child_widgets",
+			"add_widget",
+			"add_grid",
+			"add_gride",
+			"_central_widget",
+			"central_widget",
+			"add_grid",
+			"get_item",
+			">>",
+			"txt",
+			"scope",
+			"png",
+			"fmc",
+			"ind",
+			"hold",
+			"copy",
+			"workspace",
+			"workspace_name",
+			"gap",
+			"2**14",
+			"ctrl+b",
+			"F5",
+			"f5",
+			"print",
+			"repr",
+			"init",
+			"__init__",
+			"class",
+			"open",
+			"def",
+			"self",
+			"object",
+			"def",
+			"storage.type.class",
+			"storage.type.class.python",
+			"Python:"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "base/Vis.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2751,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2751,
+								2751
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/MagicPython/grammars/MagicPython.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1938.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "base/test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								289
+							],
+							[
+								292,
+								295
+							],
+							[
+								326,
+								329
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/MagicPython/grammars/MagicPython.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 68.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "qt_example.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3926,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2679,
+								2679
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MagicPython/grammars/MagicPython.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 999.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "base/MUA.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								823,
+								823
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MagicPython/grammars/MagicPython.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 545.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 58.0
+	},
+	"input":
+	{
+		"height": 60.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 579.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 190.0
+	},
+	"output.markdown":
+	{
+		"height": 218.0
+	},
+	"pinned_build_system": "",
+	"project": "mua.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gl_point",
+				"examples\\basics\\gloo\\display_points.py"
+			],
+			[
+				"widget",
+				"vispy\\scene\\widgets\\widget.py"
+			],
+			[
+				"scenecanvas",
+				"vispy\\scene\\canvas.py"
+			],
+			[
+				"fig",
+				"vispy\\plot\\fig.py"
+			],
+			[
+				"binload",
+				"Binload.py"
+			],
+			[
+				"test_write",
+				"test_write.py"
+			],
+			[
+				"test_ana",
+				"test_analysis.py"
+			],
+			[
+				"test",
+				"test_read.py"
+			],
+			[
+				"write",
+				"test_write.py"
+			],
+			[
+				"projec",
+				"Bandwidth_Accuracy_Test.sublime-project"
+			],
+			[
+				"test_read",
+				"F:\\PCIE\\Bandwidth_Accuracy_Test\\test_read.py"
+			],
+			[
+				"pcie",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\pcie_rd_wavevisual.py"
+			],
+			[
+				"bin",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\Binload.py"
+			],
+			[
+				"pcie._rd",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\pcie_rd_wavevisual.py"
+			],
+			[
+				"vis",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\vis_plot_wav.py"
+			],
+			[
+				"acq",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\data_acq.py"
+			],
+			[
+				"daq",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\data_acq.py"
+			],
+			[
+				"pcie_rd",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\pcie_rd_wavevisual.py"
+			],
+			[
+				"speed",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\speed_test.py"
+			],
+			[
+				"spee",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\speed_test.py"
+			],
+			[
+				"pcierd",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\pcie_rd_wavevisual.py"
+			],
+			[
+				"xi",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\verilog\\src\\xillydemo.v"
+			],
+			[
+				"pcie_mem",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\pcie_mem_32.py"
+			],
+			[
+				"xil",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\verilog\\src\\xillydemo.v"
+			],
+			[
+				"pcie.py",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\PCIE.py"
+			],
+			[
+				"pcie.rd",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\pcie_rd_wavevisual.py"
+			],
+			[
+				"xilly",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\verilog\\src\\xillydemo.v"
+			],
+			[
+				"visp",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\vis_plot.py"
+			],
+			[
+				"my",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\MyWaveVisual.py"
+			],
+			[
+				"xill",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\verilog\\src\\xillydemo.v"
+			],
+			[
+				"",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\pcie_rd_multiprocessing_scroll.py"
+			],
+			[
+				"f",
+				"F:\\PCIE\\Xillybus\\xillybus-eval-kintex7-1.2c\\host_python\\real_tim_sig.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "vispy",
+		"selected_items":
+		[
+			[
+				"vispy",
+				"F:\\PCIE\\vispy.sublime-project"
+			],
+			[
+				"phy",
+				"C:\\Users\\labadmin\\Downloads\\vispy-master\\build\\lib\\vispy\\visuals\\phy.sublime-project"
+			],
+			[
+				"",
+				"F:\\PCIE\\Test_Case_V3\\FIR_SpkDet_16chs\\FIR_SpkDet_16chs.sublime-project"
+			],
+			[
+				"mem",
+				"F:\\PCIE\\Test_Case_V1\\Mem_Test\\mem_test.sublime-project"
+			]
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 442.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
